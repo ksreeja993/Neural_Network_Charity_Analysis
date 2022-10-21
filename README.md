@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis.
-## Purpose:
+## Overview of the analysis:
 create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Deliverables:
@@ -23,3 +23,15 @@ A charity data csv containing more than 34,000 organizations that have received 
 * SPECIAL_CONSIDERATIONS—Special consideration for application
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
+
+## Data Preprocessing:
+
+The variables that are not adding value to the model are dropped and name and application type variables are binned and bucketed to make the model more efficient.
+
+## Results:
+
+The final model accuracy is 0.81 as shown in the figure below.
+
+
+
+
