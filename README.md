@@ -23,6 +23,8 @@ A charity data csv containing more than 34,000 organizations that have received 
 * SPECIAL_CONSIDERATIONS—Special consideration for application
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
+![2](https://user-images.githubusercontent.com/105166481/197109073-5b93b23b-6a14-4e37-94dd-103415509863.png)
+![Screenshot 2022-10-20 130359](https://user-images.githubusercontent.com/105166481/197109075-32de6265-2cf7-45e8-b210-1e51120b2e4a.png)
 
 ## Data Preprocessing:
 
@@ -32,6 +34,7 @@ The variables that are not adding value to the model are dropped and name and ap
 
 The final model accuracy is 0.81 as shown in the figure below.
 
+![4](https://user-images.githubusercontent.com/105166481/197109044-581914c8-d8e8-46df-8689-028bab3b9a18.png)
 
 
 
